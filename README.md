@@ -220,13 +220,3 @@ The plugin is designed to be lightweight:
 - Retry logic for failed file creation
 - AJAX compatibility
 
-## Credits
-
-Created by 4mation Technologies for the OnDeck WordPress site.
-
-Inspired by similar solutions for S3 compatibility and cache management.
-
-## License
-
-This plugin is proprietary software developed for internal use.
-
