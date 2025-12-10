@@ -3,8 +3,7 @@
  * Plugin Name: Beaver Builder Cache Helper
  * Description: Ensures Beaver Builder "cache" files (CSS/JS) - the ones in the "uploads" directory, exist before access, preventing 404 errors. Automatically clears page cache when BB cache files are regenerated. Works with CDN setups and caching plugins like WP Rocket, W3 Total Cache, LiteSpeed Cache, and more.
  * Version: 1.1.0
- * Author: 4mation Technologies
- * Author URI: https://www.4mationtechnologies.com
+ * Author: Adrian Voicu - Avenirer
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
